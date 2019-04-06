@@ -1,0 +1,6 @@
+// LAZYLOAD ADSENSE
+var lazyadsense=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===lazyadsense||0!=document.body.scrollTop&&!1===lazyadsense)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),lazyadsense=!0)},!0);
+// LAZYLOAD GOOGLE TAG
+var LLGTag=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&LLGTag===!1||0!=document.body.scrollTop&&LLGTag===!1)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=UA-67214684-7";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}(),LLGTag=!0)},!0);
+// LAZYLOAD ONESIGNAL
+var LLOneSignal=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&LLOneSignal===!1||0!=document.body.scrollTop&&LLOneSignal===!1)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://cdn.onesignal.com/sdks/OneSignalSDK.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}(),LLOneSignal=!0)},!0);
