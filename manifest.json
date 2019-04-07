@@ -1,6 +1,38 @@
-// LAZYLOAD ADSENSE
-var lazyadsense=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&!1===lazyadsense||0!=document.body.scrollTop&&!1===lazyadsense)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(e,a)}(),lazyadsense=!0)},!0);
-// LAZYLOAD GOOGLE TAG
-var LLGTag=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&LLGTag===!1||0!=document.body.scrollTop&&LLGTag===!1)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=UA-67214684-7";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}(),LLGTag=!0)},!0);
-// LAZYLOAD ONESIGNAL
-var LLOneSignal=!1;window.addEventListener("scroll",function(){(0!=document.documentElement.scrollTop&&LLOneSignal===!1||0!=document.body.scrollTop&&LLOneSignal===!1)&&(!function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://cdn.onesignal.com/sdks/OneSignalSDK.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}(),LLOneSignal=!0)},!0);
+{
+  "name": "Jejaker",
+  "short_name": "jejaker",
+  "start_url": "www.jejaker.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#49ace1",
+  "description": "Tekno dan Media Sosial",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-WWI_xvrg5o8/XKk6KBPZo3I/AAAAAAAAAb0/r3l2I8l68wY8kyUvFjVYHsD-SSx4arvxACLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-zIFwZ0JDJy0/XKk6NSimLDI/AAAAAAAAAcc/mgS0GcNqnWAA947Si97AgOXfci3DRBGQgCLcBGAs/s1600/apple-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-Pnn4Gc6a-_g/XKk6PvIhf4I/AAAAAAAAAc0/hgxDwrPdqugsbWD0DJKYvee3N4paY5-NgCLcBGAs/s1600/favicon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-yK3zYNVm63U/XKk6QHFLl6I/AAAAAAAAAc8/OKuK_h7cm1sE-uCJTe9mtBxS0fxeIBjgACLcBGAs/s1600/ms-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-oUuZSDYSesk/XKk6ML5wCvI/AAAAAAAAAcM/mG8KdbkBy28eTdMxrbSIFUdbFWZ-uS9dACLcBGAs/s1600/apple-icon-152x152.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-rfqktNkYRHo/XKk6JVpeF0I/AAAAAAAAAbs/hrqOc2Z_wnMgCrs643FNUXp9z7rHxbY5gCLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-SGLyqUK4dqU/XKk6MgqgdVI/AAAAAAAAAcQ/mdQrDO3o228NMirLzZnHi_Fo8lxtishpgCLcBGAs/s1600/apple-icon-180x180.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
