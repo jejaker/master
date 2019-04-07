@@ -2,7 +2,6 @@
   "name": "Jejaker",
   "short_name": "jejaker",
   "start_url": "www.jejaker.com",
-  "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#49ace1",
   "description": "Tekno dan Media Sosial",
